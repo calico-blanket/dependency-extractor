@@ -9,7 +9,7 @@ Pythonファイルを実行する際に必要な外部ライブラリを事前�
 
 ### 特徴
 
-- **静的解析**: Python の AST（抽象構文木）を使用してインポートされたライブラリを正確に検出
+- **静的解析**: Python の AST（抽象構文木）を使用してインポートされたライブラリを検出
 - **標準ライブラリ検出**: Python標準ライブラリと外部パッケージを自動的に区別
 - **フォールバックパース**: AST解析が失敗した場合は正規表現パターンマッチングに切り替え
 - **ユーザーフレンドリーなGUI**: Pythonファイルを選択して分析するためのシンプルなインターフェース
@@ -77,7 +77,7 @@ A Python tool that extracts required external dependencies from Python files bef
 
 ### Features
 
-- **Static Analysis**: Uses Python's AST (Abstract Syntax Tree) to accurately detect imported libraries
+- **Static Analysis**: Uses Python's AST (Abstract Syntax Tree) to detect imported libraries
 - **Standard Library Detection**: Automatically distinguishes between Python standard libraries and external packages
 - **Fallback Parsing**: Falls back to regex pattern matching if AST parsing fails
 - **User-Friendly GUI**: Simple interface for selecting and analyzing Python files
