@@ -153,3 +153,22 @@ SOFTWARE.
 ## Author / 作者
 
 calico_blanket (猫柄毛布）
+
+## Note from the Author / 作者からのお知らせ
+
+私はプロのデベロッパーやソフトエンジニアではなく、単なる、おばちゃんのIT愛好家にすぎません。
+
+このツールは個人的なプロジェクトとして、ClaudeのSonnet3.5と3.7の助けを大きく借りて作成しました。
+
+フィードバック、バグ報告、および提案などをいただきましたら、Sonnetと有識者の皆様のお知恵をお借りして、真摯に改善に取り組みたいと思います。
+私の学びと成長ににご協力いただけると幸いです。
+
+I am not a professional developer or software engineer, just a middle-aged woman who is an IT enthusiast.
+
+This tool was created as a personal project with significant help from Claude's Sonnet 3.5 and 3.7.
+
+If you provide feedback, bug reports, or suggestions, I will sincerely work on improvements with the help of Sonnet and knowledgeable community members.
+
+I would appreciate your cooperation in my learning and growth.
+
+
