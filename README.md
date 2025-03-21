@@ -1,7 +1,8 @@
 # Dependency Extractor / 依存関係抽出ツール
 
  [日本語](#japanese) | [English](#english) 
-
+ 
+<a id="japanese"></a>
 ## 日本語 
 
 Pythonファイルを実行する際に必要な外部ライブラリを事前に抽出するPythonツールです。インポート文を自動的に識別し、簡単にインストールするための要件を生成します。
